@@ -44,7 +44,7 @@ Each operation is carefully structured to follow the behavior of a deterministic
 1. Make sure you have a C++ compiler installed (like `g++`).
 2. Clone the repository:
    
-   git clone https://github.com/your-username/turing-machine-sim.git
+   git clone (https://github.com/alimobin28/Turing-Machine-String-simulator.git)
    cd turing-machine-simulator
 
 📚 Technologies Used
